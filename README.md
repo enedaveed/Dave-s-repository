@@ -2,4 +2,4 @@
 
 My first repository on github
 
-I love :soccer: and :programming.
+I love :soccer: and :coding
